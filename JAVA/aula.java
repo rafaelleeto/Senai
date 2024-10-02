@@ -1,9 +1,8 @@
 package JAVA;
 
-public class aula {
-    public static void main(){
-        
-
+public class Aula {
+    public static void main(String[] args) {
+        System.out.println("Olá mundo");
     }
     
 }
